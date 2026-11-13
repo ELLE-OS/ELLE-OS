@@ -1,6 +1,6 @@
 # ELLE
 
-### Emerging Applied AI Practitioner
+### Applied AI Practitioner
 **Creative Intelligence · Human–AI Collaboration**
 
 *Creative mind. Applied intelligence. Unconventional possibilities.*
